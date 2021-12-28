@@ -4,6 +4,7 @@ import UniformTypeIdentifiers
 import SwiftUI
 import Combine
 
+
 // MARK: HELPER CLASS
 public class Utils {
     public static var isPad: Bool { UIDevice.current.userInterfaceIdiom == .pad }
